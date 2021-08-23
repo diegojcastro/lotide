@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@diegojcastro/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A collection of simple functions to interact with arrays and verify object equality.",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/diegojcastro/lotide.git"
   },
-  "author": "Diego Castro",
+  "author": "Diego Castro <diegojcr4@gmail.com> (https://github.com/diegojcastro)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/diegojcastro/lotide/issues"
