@@ -32,3 +32,8 @@ The following functions are currently implemented:
 * `assertEqual(a, b)`: logs a message to console verifying if a and b are equal or not.
 * `eqArrays(a, b)`: returns true if arrays a and b are equal (including subarrays), false if not.
 * `assertArraysEqual(a, b)`: calls eqArrays, then logs to console verifying if a and b are equal or not.
+* `flatten(array)`: returns an un-nested array from a multi-level nested array.
+* `countOnly(source, items)`: returns an object containing keys and counts for each element in items found in source array
+* `letterPositions(source, char)`: returns an array containing the indexes where char is found in source array.
+* `findKeyByValue(source, val)`: returns a string containing the name of the key in source object where val was found.
+* `eqObjects(a, b)`: returns true if objects a and b have identical key,value pairs.

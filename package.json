@@ -1,6 +1,6 @@
 {
   "name": "@diegojcastro/lotide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of simple functions to interact with arrays and verify object equality.",
   "main": "assertArraysEqual.js",
   "directories": {
